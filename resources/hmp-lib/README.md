@@ -21,7 +21,7 @@ server-only.
 Declare the dependency:
 
 ```json
-"resourceDependencies": [{ "name": "hmp-lib", "version": "0.8.1" }]
+"resourceDependencies": [{ "name": "hmp-lib", "version": "0.8.2" }]
 ```
 
 Then import its exports:

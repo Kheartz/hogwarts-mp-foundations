@@ -5,6 +5,12 @@ pre-`1.0.0` policy documented in [COMPATIBILITY.md](COMPATIBILITY.md#version-pol
 
 ## [Unreleased]
 
+## [0.8.2] - 2026-10-12
+
+### Changed
+
+- Set the pack, all twenty-eight resources, and internal dependency pins to lockstep version `0.8.2`.
+
 ### Fixed
 
 - `hmp-core` no longer gives a returning player a new, empty account when their client announces
@@ -425,6 +431,7 @@ pre-`1.0.0` policy documented in [COMPATIBILITY.md](COMPATIBILITY.md#version-pol
 - The initial admin resource focuses on moderation and corrective operations; spectate, noclip, and
   god mode are not included.
 
+[0.8.2]: https://github.com/hogwarts-mp/foundations/releases/tag/v0.8.2
 [0.8.1]: https://github.com/hogwarts-mp/foundations/releases/tag/v0.8.1
 [0.8.0]: https://github.com/hogwarts-mp/foundations/releases/tag/v0.8.0
 [0.7.0]: https://github.com/hogwarts-mp/foundations/releases/tag/v0.7.0
